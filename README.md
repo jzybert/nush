@@ -54,3 +54,10 @@ In total, nush supports seven operators:
 5. AND: true && echo one
 6. OR: false || echo one
 7. Semicolon: echo one; echo two
+
+## How to run:
+1. Clone this reposotory locally
+2. Via command line, go to the repository
+3. Type make and hit enter
+	* Type ./nush <command-line-args>
+	* Type ./nush and enter commands
