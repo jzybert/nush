@@ -59,5 +59,5 @@ In total, nush supports seven operators:
 1. Clone this reposotory locally
 2. Via command line, go to the repository
 3. Type make and hit enter
-	* Type ./nush <command-line-args>
+	* Type ./nush (arg1) (arg2)...
 	* Type ./nush and enter commands
