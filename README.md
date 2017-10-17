@@ -5,10 +5,10 @@ This project was our first challenge assignment in CS 3650 Computer Systems at N
 
 ## Goals
 Create a Unix shell that supported:
-	1. Programs to execute
-	2. Built-in commands
-	3. Command line arguments to programs / builtins
-	4. Operators
+1. Programs to execute
+2. Built-in commands
+3. Command line arguments to programs / builtins
+4. Operators
 
 ### Programs to Execute
 ```
@@ -47,10 +47,10 @@ nush$
 ```
 
 In total, nush supports seven operators:
-	1. Redirect input: sort < foo.txt
-	2. Redirect output: sort foo.txt > output.txt
-	3. Pipe: sort foo.txt | uniq
-	4. Background: sleep 10 &
-	5. AND: true && echo one
-	6. OR: false || echo one
-	7. Semicolon: echo one; echo two
+1. Redirect input: sort < foo.txt
+2. Redirect output: sort foo.txt > output.txt
+3. Pipe: sort foo.txt | uniq
+4. Background: sleep 10 &
+5. AND: true && echo one
+6. OR: false || echo one
+7. Semicolon: echo one; echo two
