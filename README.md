@@ -56,7 +56,7 @@ In total, nush supports seven operators:
 7. Semicolon: echo one; echo two
 
 ## How to run:
-1. Clone this reposotory locally
+1. Clone this repository locally
 2. Via command line, go to the repository
 3. Type make and hit enter
 	* Type ./nush (arg1) (arg2)...
